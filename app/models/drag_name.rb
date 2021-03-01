@@ -1,0 +1,2 @@
+class DragName < ApplicationRecord
+end

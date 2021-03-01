@@ -5,3 +5,10 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+DragName.destroy_all
+
+
+drag_queen1 = DragName.create(
+    first_name: 'Purella',
+    last_name: 'DeVille'
+    )

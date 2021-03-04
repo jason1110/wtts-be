@@ -12,3 +12,15 @@ drag_queen1 = DragName.create(
     first_name: 'Purella',
     last_name: 'DeVille'
     )
+drag_queen2 = DragName.create(
+    first_name: 'Rosemary-Anne',
+    last_name: 'Thyme'
+    )
+drag_queen3 = DragName.create(
+    first_name: 'The Mayor',
+    last_name: 'of New Jersey'
+    )
+drag_queen4 = DragName.create(
+    first_name: 'Sally',
+    last_name: 'Brown'
+    )

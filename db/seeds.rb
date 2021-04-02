@@ -24,3 +24,7 @@ drag_queen4 = DragName.create(
     first_name: 'Sally',
     last_name: 'Brown'
     )
+drag_queen4 = DragName.create(
+    first_name: 'Barb',
+    last_name: 'Wired'
+    )

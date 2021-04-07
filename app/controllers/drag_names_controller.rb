@@ -15,7 +15,8 @@ class DragNamesController < ApplicationController
     def create
         @new_drag_names = DragName.create(
             first_name: params[:first_name],
-            last_name: param[:last_name]
+            last_name: param[:last_name],
+            likes: 0
         )
         render json: @new_drag_names, status: :created
     end

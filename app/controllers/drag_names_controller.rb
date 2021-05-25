@@ -7,7 +7,7 @@ class DragNamesController < ApplicationController
     end
 
     def show
-        @drag_name = DragName.find9params[:id])
+        @drag_name = DragName.find(params[:id])
 
         render json: @drag_name
     end

@@ -33,3 +33,23 @@ drag_queen4 = DragName.create(
     last_name: 'Wired',
     likes: 0
     )
+drag_queen5 = DragName.create(
+    first_name: 'Kelsey',
+    last_name: 'Glamour',
+    likes: 0
+    )
+drag_queen6 = DragName.create(
+    first_name: 'Steffanie',
+    last_name: 'Replacement',
+    likes: 0
+    )
+drag_queen7 = DragName.create(
+    first_name: 'Kay',
+    last_name: 'F Cie',
+    likes: 0
+    )
+drag_queen8 = DragName.create(
+    first_name: 'Lola',
+    last_name: 'Lolalalon',
+    likes: 0
+    )
